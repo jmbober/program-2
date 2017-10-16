@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Book Finder</string>
+    <string name="details_button">Show details</string>
+
+    <string name="book_title">Title</string>
+    <string name="book_description">Description</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="book_genre_id">0</string>
+
+    <string-array name="options">
+        <item>Sci-fi</item>
+        <item>Fantasy</item>
+        <item>Dystopian</item>
+    </string-array>
+
+    <string name="backArrowTitle">Book Finder</string>
+    <string name="action_open_browser">Open browser</string>
+
+</resources>
